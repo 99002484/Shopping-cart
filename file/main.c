@@ -2,6 +2,6 @@
 
 int shop()
 {
-	shop()
+	shop();
    return 0;
 }
